@@ -5,7 +5,6 @@ import { Box, OrbitControls } from "@react-three/drei";
 import { useRef } from "react";
 
 function App() {
-  const ref = useRef();
   return (
     <Container>
       <Canvas>
